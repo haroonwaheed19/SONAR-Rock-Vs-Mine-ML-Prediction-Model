@@ -1,6 +1,7 @@
 SONAR Rock vs Mine Prediction Model
 
 This repository contains an ML model for classifying SONAR signals as either Rock or Mine using Logistic Regression. The model is trained on the SONAR dataset, which contains 60 feature values extracted from reflected sound waves.
+
 📌 Project Overview
 
 Underwater objects, such as rocks and metal mines, reflect sonar waves differently. This project applies Machine Learning (ML) techniques to classify sonar signals based on their frequency response patterns.
